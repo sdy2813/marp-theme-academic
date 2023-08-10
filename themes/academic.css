@@ -96,3 +96,7 @@ img[alt~="center"] {
 code {
   font-family: 'Source Code Pro', monospace;
 }
+.section-title {
+  font-size: 32px;
+  color: #blue; 
+}
