@@ -16,6 +16,8 @@ section {
   padding-top: 90px;
   padding-left: 40px;
   padding-right: 40px;
+  display: flex;
+  justify-content: space-between;
 }
 
 /* https://github.com/marp-team/marpit/issues/271 */
@@ -97,16 +99,6 @@ code {
   font-family: 'Source Code Pro', monospace;
 }
 
-section.title {
-  font-size: 32px;
-  color: #blue; 
-}
-
-footer {
-  display: flex;
-  justify-content: space-between;
-}
-
-footer div {
+section div {
   flex: 1;
 }
