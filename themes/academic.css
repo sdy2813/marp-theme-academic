@@ -101,3 +101,12 @@ section.title {
   font-size: 32px;
   color: #blue; 
 }
+
+footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+footer div {
+  flex: 1;
+}
