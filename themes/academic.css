@@ -12,12 +12,10 @@
 
 section {
   background-image: none;
-  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Noto Sans SC', sans-serif;
   padding-top: 90px;
   padding-left: 40px;
   padding-right: 40px;
-  display: flex;
-  justify-content: space-between;
 }
 
 /* https://github.com/marp-team/marpit/issues/271 */
@@ -99,15 +97,3 @@ code {
   font-family: 'Source Code Pro', monospace;
 }
 
-section div {
-  flex: 1;
-}
-
-footer {
-  display: flex;
-  justify-content: space-between;
-}
-
-footer div {
-  flex: 1;
-}
