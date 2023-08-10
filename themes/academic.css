@@ -102,11 +102,12 @@ code {
 section div {
   flex: 1;
 }
-.footer {
+
+footer {
   display: flex;
   justify-content: space-between;
 }
 
-.footer div {
+footer div {
   flex: 1;
 }
